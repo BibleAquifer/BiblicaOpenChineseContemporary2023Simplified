@@ -28,8 +28,8 @@
 "showAdaptationNoticeForNonEnglish": false
 },
 "adaptation_notice": "",
-"resource_code": "Biblica®OpenChineseContemporaryBible2023Simplified",
-"date_created": "2026-08-20",
+"resource_code": "BiblicaOpenChineseContemporary2023Simplified",
+"date_created": "2026-09-03",
 "language": "zhs",
 "localizations": [],
 "order": "canonical",
@@ -41,7 +41,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-08-20T16:30:19.513084"
+"dateCreated": "2026-09-03T09:59:29.487075"
 },
 "idAuthorities": {
 "aquifer": {
@@ -54,8 +54,8 @@
 "identification": {
 "primary": {
 "aquifer": {
-"Biblica®OpenChineseContemporaryBible2023Simplified": {
-"timestamp": "2026-08-20T16:30:19.513084"
+"BiblicaOpenChineseContemporary2023Simplified": {
+"timestamp": "2026-09-03T09:59:29.487075"
 }
 }
 },
