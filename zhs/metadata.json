@@ -6,7 +6,7 @@
 "aquifer_name": "Biblica® Open Chinese Contemporary Bible 2023 (Simplified)",
 "version": "1.0.2",
 "collection_title": "Biblica® Open Chinese Contemporary Bible 2023 (Simplified)",
-"short_name": "CUV",
+"short_name": "BOCCB2023S",
 "license_info": {
 "licenses": [
 {
@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "",
 "resource_code": "BiblicaOpenChineseContemporary2023Simplified",
-"date_created": "2026-09-03",
+"date_created": "2026-11-13",
 "language": "zhs",
 "localizations": [],
 "order": "canonical",
@@ -41,7 +41,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-09-03T09:59:29.487075"
+"dateCreated": "2026-11-13T06:42:07.107472"
 },
 "idAuthorities": {
 "aquifer": {
@@ -55,7 +55,7 @@
 "primary": {
 "aquifer": {
 "BiblicaOpenChineseContemporary2023Simplified": {
-"timestamp": "2026-09-03T09:59:29.487075"
+"timestamp": "2026-11-13T06:42:07.107472"
 }
 }
 },
@@ -64,7 +64,7 @@
 "en": "Biblica® Open Chinese Contemporary Bible 2023 (Simplified)"
 },
 "abbreviation": {
-"zh": "CUV"
+"zh": "BOCCB2023S"
 }
 },
 "languages": [
